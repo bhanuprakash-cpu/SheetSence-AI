@@ -1,1 +1,1 @@
-# SheetSence-AI
+# SheetSense-AI
